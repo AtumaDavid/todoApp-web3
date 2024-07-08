@@ -13,6 +13,7 @@
 - Hardhat is a development environment for Ethereum smart contract development. It provides a robust framework that makes it easier to compile, test, deploy, and interact with smart contracts on the Ethereum blockchain.
 - npm install --save-dev hardhat
 - npx hardhat init
+- npx hardhat node : is a command to start a local Ethereum node using Hardhat, facilitating efficient and safe development and testing of Ethereum smart contracts and decentralized applications.
 
 **ethers.js**: npm i ethers
 
