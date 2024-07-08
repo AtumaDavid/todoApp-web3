@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.0;
 
-contract Todolist {
+contract ToDoList {
     uint256 public _idUser; // Public variable to store the number of users
     address public ownerOfContract; // Public variable to store the owner of the contract
 

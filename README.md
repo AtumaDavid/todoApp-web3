@@ -14,6 +14,7 @@
 - npm install --save-dev hardhat
 - npx hardhat init
 - npx hardhat node : is a command to start a local Ethereum node using Hardhat, facilitating efficient and safe development and testing of Ethereum smart contracts and decentralized applications.
+- npx hardhat run scripts/deploy.js --network localhost
 
 **ethers.js**: npm i ethers
 
